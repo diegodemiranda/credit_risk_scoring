@@ -1,0 +1,9 @@
+numpy
+pandas
+PyWavelets
+scipy
+matplotlib
+seaborn
+scikit-learn
+torch
+pytorch-tabnet
